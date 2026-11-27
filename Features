@@ -6,7 +6,7 @@ FEATURES:
 
 3. Every Greek word from the source text is linked to every word or phrase in the Tagalog translation which can be shown using iBiblia for PC  (https://github.com/rubiot/ibiblia). This is done for the purpose of transparency and accountability of every word or phrase.
 
-4. The only Tagalog Bible that Includes Strongs Definition and Morphology of every Tagalog word or phrase which can be shown using MySword for Android or theWord for PC (still a work in progress).
+4. The only Tagalog Bible that includes Strong's Numbers, Greek lemmas, and Morphology of every Tagalog word or phrase—prepackaged and ready to use in the Timotheos Bible App (https://github.com/SalitaNgDiyos/Timotheos) for Linux, Windows, and Android, and also available in USFM and e-Sword formats.
 
 5. Words of Jesus in red (In Software version)
 
